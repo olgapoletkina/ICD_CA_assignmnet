@@ -6,6 +6,7 @@
 
 # Keep gitignore itself
 !.gitignore
+!README.md
 
 # Keep assignment notebook(s)
 !*.ipynb
