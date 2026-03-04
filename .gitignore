@@ -16,3 +16,7 @@
 # Keep dataset folder contents
 !data/
 !data/**
+
+# Keep generated figures
+!imgs/
+!imgs/**
